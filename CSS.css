@@ -1,0 +1,247 @@
+nav{
+     background-color: rgb(172, 22, 22);
+     
+     height: 80px;
+     width: 100%;
+}
+label.loge{
+     color: white;
+     font-size: 35px;
+     line-height: 80px;
+     padding: 0 100px;
+     font-weight: bold;
+     font-style: italic ;
+}
+nav img{
+     float: inline-start;
+}
+nav ul{
+     float: right;
+     margin-left: 50px;
+     
+
+}
+nav ul li{
+     display:inline;
+     line-height: 80px;
+     margin: 0 5px;
+
+}
+nav ul li a{
+     color: white;
+     font-size: 20px ;
+     text-transform: capitalize;
+     padding: 7px 13px;
+     border-radius: 3px;
+}
+#ll{
+     margin:20px ;
+     text-align: left;
+}
+li{
+     background-color: #47494b;
+     border-radius: 50px;
+     width: 100px;
+     height: 10px;
+     padding: 10px 10px 10px 10px ;
+     margin: 20px 30px 100px 50px ;
+     background-attachment:fixed ;
+     
+}
+#a{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+     background-attachment:inherit;
+     width: 100%;
+     height: 1000px;
+     margin-top: -40px;
+}
+#a p{
+     color: white;
+    font-size: 40px ;
+    text-align: center;
+    text-transform: capitalize;
+    margin-left: 250px;
+}
+#e{
+     background-color: rgb(134, 20, 20);
+     margin-left:500px ;
+     border-radius: 20px;
+     color: white;
+     font-size: 17px;
+     margin: 679px 200px 10px 350px;
+
+}
+#w{
+     background-color: rgb(134, 20, 20);
+     margin: 750px 26px 10px 500px;
+     color: white;
+     font-size: 17px;
+     border-radius: 20px;
+}
+.firstr{
+     font-size: 50px ;
+     text-align: center;
+     text-transform: capitalize;
+     font-weight: 700;
+}
+table{
+     width: 500px;
+     font-weight: 500; 
+     border: 1px solid rgba(218, 39, 7, 0.904);
+     border-collapse:collapse ;
+     margin: -10px 10px 10px 400px;
+}
+
+ table td,tr{
+     border: 1px solid rgba(218, 39, 7, 0.904);
+     border-collapse:collapse ;
+     text-align: center;
+     color: white;
+     
+}
+#aa{
+     color: black;
+     border: 1px solid rgba(218, 39, 7, 0.904);
+     border-collapse:collapse ;
+     text-transform: capitalize;
+     font-weight: 700;
+}
+     
+
+.image{
+     width: 40px;
+     height: 40px;
+}
+.d{
+     background-color: #212122e0;
+}
+.e{
+     background-color: #5f6061;
+}
+button{
+     background-color: rgb(77, 16, 16);
+     color: black;
+}
+.div{
+     width: 400px;
+     height: 500px;
+     text-align: center;
+     font-size: 18px;
+     background-color: #5f6061;
+     padding: 0px;
+     margin: 40px 100px 10px 40px;
+     
+}
+.div img{
+     width: 400px;
+     height: 200px;
+}
+.div input{
+     background-color:  rgb(77, 16, 16);
+     width: 250px;
+     height: 30px;
+     color: white;
+     margin-top: 10px;
+}
+.div p{
+     color: white;
+}
+.div2{
+     width: 400px;
+     height: 500px;
+     text-align: center;
+     font-size: 18px;
+     background-color: #5f6061;
+     padding: 0px;
+     margin: -530px 100px 10px 500px;
+     
+}
+.div2 img{
+     width: 400px;
+     height: 200px;
+}
+.div2 input{
+     background-color:  rgb(77, 16, 16);
+     width: 250px;
+     height: 30px;
+     color: white;
+}
+.div2 p{
+     color: white;
+}
+.div3{
+     width: 400px;
+     height: 500px;
+     text-align: center;
+     font-size: 18px;
+     background-color: #5f6061;
+     padding: 0px;
+     margin: -530px 100px 10px 1000px;
+     
+}
+.div3 img{
+     width: 400px;
+     height: 200px;
+}
+.div3 input{
+     background-color:  rgb(77, 16, 16);
+     width: 250px;
+     height: 30px;
+     color: white;
+}
+.div3 p{
+     color: white;
+}
+.div0{
+     background-image: url("back2.jpg");
+     height: 600px;
+     padding: 40px;
+}
+h1{
+     font-family: cursive;
+}
+.div4{
+     
+     width: 500px;
+     height: 550px;
+     text-align: center;
+     font-size: 18px;
+     margin: 105px 10px 19px 10px;
+      padding: px;
+      background-color: #99ddff;
+}
+.div4 img{
+     width: 400px;
+     height: 250px;
+}
+.div4 input{
+     background-color:  rgb(77, 16, 16);
+     width: 250px;
+     height: 30px;
+     color: white;
+     border-radius: 20px;
+     
+}
+
+.div5{
+     
+     width: 500px;
+     height: 550px;
+     text-align: center;
+     font-size: 18px;
+     background-color: orange;
+      padding: 0px;
+      margin: -570px 10px 10px 832px;
+}
+.div5 img{
+     width: 300px;
+     height: 250px;
+}
+.div5 input{
+     background-color:  rgb(77, 16, 16);
+     width: 250px;
+     height: 30px;
+     color: white;
+     border-radius: 20px;
+}
